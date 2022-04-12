@@ -3,6 +3,7 @@
 <p>A website to find information about an animal. The database is provided by the teacher.</p>
 <p>Functions:</p>
 <ul>
+<li>Collection</li>
 <li>Search</li>
 <li>Advanced search</li>
 <li>View details</li>
