@@ -1,4 +1,5 @@
 # Animals-Research-Website
+<b>This project is in progress.</b>
 <h3>Subject Project</h3>
 <p>A website to find information about an animal. The database is provided by the teacher.</p>
 <p>Functions:</p>
