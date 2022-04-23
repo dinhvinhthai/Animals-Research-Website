@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-    <div class="wrapper">
+    <div class="content">
         <section class="form signup">
         <header>Đăng ký tài khoản</header>
         <form action="php/signup.php" method="POST" enctype="multipart/form-data" autocomplete="off">
